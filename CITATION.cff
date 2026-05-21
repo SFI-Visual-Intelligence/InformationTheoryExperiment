@@ -1,0 +1,22 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper: Analysis of Deep Convolutional Neural Networks Using Tensor Kernels and Matrix-Based Entropy."
+title: "Information Theory Experiment"
+authors:
+  - family-names: "Wickstrøm"
+    given-names: "Kristoffer"
+  - family-names: "Løkse"
+    given-names: "Sigurd Eivindson"
+  - family-names: "Kampffmeyer"
+    given-names: "Michael"
+  - family-names: "Yu"
+    given-names: "Shujian"
+  - family-names: "Príncipe"
+    given-names: "José C."
+  - family-names: "Jenssen"
+    given-names: "Robert"
+version: "0.1.0"
+date-released: 2026-05-21
+doi: "10.3390/e25060899"
+url: "https://nva.sikt.no/registration/0198cc4677fc-6f425dd9-4955-42f1-b394-455927ec8a6d"
+preferred-citation: "Wickstrøm K., Løkse S.E., Kampffmeyer M., Yu S., Príncipe J.C., Jenssen R. (2023). Analysis of Deep Convolutional Neural Networks Using Tensor Kernels and Matrix-Based Entropy. Entropy 25(6):899. doi:10.3390/e25060899"
